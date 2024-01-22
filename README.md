@@ -20,17 +20,6 @@ This repository contains a comprehensive README file for a GitHub project. The s
 
 ---
 
-In the lshaoqin repository, commits were made to update the README file, improve wordcloud formatting, fix an emoji bug, test cron scheduling, merge branches, change image links, update markdown files, improve formatting, revert gitignore, add bold headers, integrate Github actions for wordcloud, make minor text changes, and improve formatting.
-</details>
-
-<details>
-<summary><strong>🌐MekongGPT</strong></summary>
-Link to repo: https://github.com/lshaoqin/MekongGPT
-<br/>
-This repository contains a Zalo chatbot that utilizes GPT-3.5 and Chroma to deliver accurate and current information to farmers.
-
----
-
 The MekongGPT repository contains several commits that involve changes to the Dockerfile, arrow dependency, language accuracy of the chatbot, prompt adjustments, integration of Firebase, debugging, and updates to the access token.
 </details>
 
