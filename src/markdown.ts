@@ -26,8 +26,6 @@ export function generateMarkdown(contributions: string) {
 ## Hi, I'm Shaoqin! 👋
 I'm a Computer Science student at the National University of Singapore. I like travelling🚀, games🎮, and music🎵!
 
----
-
 ## 🔨 I've been working on:
 ${contributions}
 <br>
@@ -42,6 +40,7 @@ ${contributions}
 
 <p align="center">
 📢 <strong>This README was automatically generated using <a href="https://github.com/lshaoqin/coolprofiles">coolprofiles</a>!</strong>
+<br>
 <em>Psst...<a href="https://github.com/lshaoqin/coolprofiles">coolprofiles</a> is a tool that I built with my team. You can fork it yourself to try it out!</em>
 </p>
 `;
