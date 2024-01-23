@@ -1,59 +1,64 @@
 
+## Hi, I'm Shaoqin! 👋
+I'm a Computer Science student at the National University of Singapore. I like travelling🚀, games🎮, and music🎵!
+
+---
+
 ## 🔨 I've been working on:
 
 <details>
-<summary><strong>👤coolprofiles</strong></summary>
+<summary><strong>🌟coolprofiles</strong></summary>
 Link to repo: https://github.com/lshaoqin/coolprofiles
 <br/>
-This repository contains a tool that enables you to create README.md files dynamically for your GitHub profile.
+This repository contains a tool that allows you to dynamically generate README files for your GitHub profile.
 
 ---
 
-The coolprofiles repository has seen a number of commits aimed at improving the formatting and functionality of dynamically generated READMEs. Commits include fixes for emoji bugs, changes in image links, improvements in wordcloud formatting, and the integration of GitHub actions for wordcloud generation.
+The coolprofiles repository has undergone several updates to improve the formatting and functionality of dynamically generated READMEs. Commits include fixing bugs related to emojis, improving wordcloud formatting, scheduling cron jobs, auto-updating README files, integrating GitHub actions for wordcloud generation, and making minor text changes.
 </details>
 
 <details>
-<summary><strong>⭐lshaoqin</strong></summary>
+<summary><strong>🤔lshaoqin</strong></summary>
 Link to repo: https://github.com/lshaoqin/lshaoqin
 <br/>
-This repository contains a comprehensive guide and code samples for implementing machine learning algorithms in Python. It includes step-by-step instructions and explanations, making it a valuable resource for beginners and experienced practitioners alike. The code covers various topics such as data preprocessing, feature selection, model evaluation, and more.
+This repository contains a readme file that provides a summary of a GitHub repository. The summary is generated to give a professional overview of the repository's purpose and contents.
 
 ---
 
-The lshaoqin repository had multiple commits, including updates to the README.md file, improvements in formatting, bug fixes, integration of GitHub actions for wordcloud, and minor text changes.
+The repository lshaoqin saw various updates, with improvements in the wordcloud formatting, fixing bugs related to emoji and image links, as well as enhanced markdown formatting. There were also updates to the README file and integration of GitHub actions for the wordcloud feature.
 </details>
 
 <details>
-<summary><strong>🚀MekongGPT</strong></summary>
+<summary><strong>💡MekongGPT</strong></summary>
 Link to repo: https://github.com/lshaoqin/MekongGPT
 <br/>
-This repository contains a Zalo chatbot that utilizes GPT-3.5 and Chroma to deliver reliable and current information to farmers.
+This repository contains a Zalo chatbot that is designed to support farmers by providing them with accurate and current information. The chatbot is powered by GPT-3.5 and Chroma, making it an innovative and reliable tool for farmers.
 
 ---
 
-In the MekongGPT repository, recent commits include reverting Dockerfile changes, updating arrow dependency, improving bot accuracy, adding storage of queries and answers, integrating Firebase, fixing bugs and handling exceptions, adjusting response priority, implementing authorization changes, and updating access token access. Additionally, there are commits related to prompt adjustment, using Pinecone, adding debugging, and testing on Render.
+The MekongGPT repository has seen various commits to improve accuracy, adjust prompts, integrate Firebase, fix bugs, and update dependencies. Changes include reverting Dockerfile changes, updating arrow dependency, and adding storage of queries and answers. The repository also includes changes to force the bot to reply in Vietnamese and adjust the priority for the /zaloquery response.
 </details>
 
 <details>
-<summary><strong>🤔pe</strong></summary>
+<summary><strong>❓pe</strong></summary>
 Link to repo: https://github.com/lshaoqin/pe
 <br/>
-This repository contains a comprehensive readme file that provides an overview and documentation for a specific GitHub project. It summarizes the purpose, features, and usage instructions.
+This repository contains a detailed readme file providing information about the project, its purpose, and how to use it. It also includes documentation on installation instructions, dependencies, and any special setup requirements. The readme file serves as a guide for developers or users interested in understanding and utilizing the repository effectively.
 
 ---
 
-The "pe" repository has had multiple file uploads.
+There have been 30 successive commits to the "pe" repository, all involving uploading files.
 </details>
 
 <details>
-<summary><strong>🌟aoc2023</strong></summary>
+<summary><strong>🔮aoc2023</strong></summary>
 Link to repo: https://github.com/lshaoqin/aoc2023
 <br/>
-This repository contains the code for the Advent of Code 2023 event, showcasing solutions to coding challenges.
+This repository contains my code for the Advent of Code 2023 event, showcasing my solutions to various programming puzzles and challenges presented during the event.
 
 ---
 
-This repository contains my code for the Advent of Code 2023 event. It includes solutions for days 1 to 23, with occasional updates and fixes.
+This repository contains my code for the Advent of Code 2023 event. Commits include added code for days 23 to 2, an updated code for day 12, and a removal of an extra print statement.
 </details>
 
 <br>
@@ -68,4 +73,5 @@ This repository contains my code for the Advent of Code 2023 event. It includes 
 
 <p align="center">
 📢 <strong>This README was automatically generated using <a href="https://github.com/lshaoqin/coolprofiles">coolprofiles</a>!</strong>
+<em>Psst...<a href="https://github.com/lshaoqin/coolprofiles">coolprofiles</a> is a tool that I built with my team. You can fork it yourself to try it out!</em>
 </p>
