@@ -5,58 +5,58 @@ I'm a Computer Science student at the National University of Singapore. I like t
 ## 🔨 I've been working on:
 
 <details>
-<summary><strong>😎coolprofiles</strong></summary>
+<summary><strong>💻coolprofiles</strong></summary>
 Link to repo: https://github.com/lshaoqin/coolprofiles
 <br/>
-This repository contains a collection of dynamically generated README files which can be used for your GitHub profile.
+This repository contains a collection of dynamically generated README templates for enhancing your GitHub profile presentation.
 
 ---
 
-The coolprofiles repository has seen various updates and improvements to its README file, focusing on wordcloud formatting, fixing an emoji bug, and scheduling cron tasks. Additionally, there were updates to the markdown and formatting, integration of GitHub actions for the wordcloud, and minor text changes.
+The "coolprofiles" repository saw improvements in README formatting, fixing emoji bugs, wordcloud integration, and auto-updating features through GitHub actions.
 </details>
 
 <details>
-<summary><strong>😄lshaoqin</strong></summary>
+<summary><strong>💻lshaoqin</strong></summary>
 Link to repo: https://github.com/lshaoqin/lshaoqin
 <br/>
-This repository contains a comprehensive collection of Python scripts and modules that provide various functionalities for data analysis and visualization. It includes libraries for manipulating datasets, performing statistical analysis, generating plots and charts, and much more. It is a valuable resource for data scientists and analysts looking to enhance their data processing capabilities using Python.
+This repository contains a comprehensive guide for beginners on how to use Git and GitHub effectively. It covers topics such as version control, collaboration, and best practices for managing software projects.
 
 ---
 
-The repository "lshaoqin" has seen various updates, including fixing formatting issues with a markdown template, updating the README file and improving wordcloud formatting. There have also been fixes for an emoji bug, changes to image links, and improvements to the overall formatting of the markdown. Additionally, there were updates to the gitignore file, reverting previous changes, and making minor text modifications.
+Multiple commits involve updating and formatting README.md, addressing markdown issues, fixing emoji bugs, and adjusting gitignore in the lshaoqin repository.
 </details>
 
 <details>
-<summary><strong>⭐MekongGPT</strong></summary>
-Link to repo: https://github.com/lshaoqin/MekongGPT
-<br/>
-This repository contains a Zalo chatbot that leverages GPT-3.5 and Chroma to deliver accurate and timely agricultural information to farmers.
-
----
-
-The MekongGPT repository saw various changes and improvements, including updating dependencies, improving bot accuracy, adjusting prompts, integrating Firebase, fixing bugs, and adding logging and storage functionalities. The repository also went through testing and deployment changes using Dockerfile and Render, while also implementing a verifier and access token updates.
-</details>
-
-<details>
-<summary><strong>🤔pe</strong></summary>
-Link to repo: https://github.com/lshaoqin/pe
-<br/>
-This repository contains a comprehensive README file that provides an overview and instructions for a specific GitHub project or codebase. It serves as a guide for developers to understand and utilize the code effectively.
-
----
-
-There have been 30 commits to the repository named "pe" where files were uploaded.
-</details>
-
-<details>
-<summary><strong>🌍aoc2023</strong></summary>
+<summary><strong>🚀aoc2023</strong></summary>
 Link to repo: https://github.com/lshaoqin/aoc2023
 <br/>
-This repository contains the code for the Advent of Code 2023 event.
+This repository contains a collection of code solutions written in Python for the challenges presented during the Advent of Code 2023 event.
 
 ---
 
-Added code for days 23 to 2, updated code for day 12, added solution for day 1.2, and updated README.md.
+Added code for days 1 to 23 of Advent of Code 2023, including updates and modifications. Removed extra print statement and readme updates.
+</details>
+
+<details>
+<summary><strong>💻MekongGPT</strong></summary>
+Link to repo: https://github.com/lshaoqin/MekongGPT
+<br/>
+This repository contains a Zalo chatbot that utilizes GPT-3.5 and Chroma to deliver accurate and current information to farmers, enhancing their access to reliable data.
+
+---
+
+In the MekongGPT repository, commits include Dockerfile adjustments, Arrow dependency updates, bot accuracy enhancements, and prompt template optimizations for Vietnamese chatbot serving farmers. Storage of queries and answers was also implemented.
+</details>
+
+<details>
+<summary><strong>⚙️req-throttle</strong></summary>
+Link to repo: https://github.com/lshaoqin/req-throttle
+<br/>
+This repository contains a basic request throttler implemented in TypeScript, allowing users to limit and manage the rate of requests to external services or APIs.
+
+---
+
+The "req-throttle" repository underwent several updates, including fixing bugs, handling concurrency, adding tests, and implementing a basic request throttler in TypeScript.
 </details>
 
 <br>
