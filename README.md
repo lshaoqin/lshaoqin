@@ -5,58 +5,58 @@ I'm a Computer Science student at the National University of Singapore. I like t
 ## 🔨 I've been working on:
 
 <details>
-<summary><strong>🌊rag</strong></summary>
+<summary><strong>🧽rag</strong></summary>
 Link to repo: https://github.com/lshaoqin/rag
 <br/>
-This repository contains an implementation and testing of Retrieval Augmented Generation (RAG) for natural language processing tasks.
+This repository contains an implementation and testing of Retrieval Augmented Generation (RAG), a method that combines information retrieval and text generation for natural language processing tasks.
 
 ---
 
-The 'rag' repository underwent significant changes including updating API methods, adding Milvus integration, GPU support, and bug fixes for angle queries and embeddings. The project setup and testing were also improved.
+The rag repository underwent multiple updates and bug fixes. Changes include API enhancements, Milvus integration, GPU support, and embedding improvements to prevent memory issues. Tests were created for Milvus and text embeddings.
 </details>
 
 <details>
-<summary><strong>⚙️req-throttle</strong></summary>
-Link to repo: https://github.com/lshaoqin/req-throttle
-<br/>
-This repository contains a basic request throttler implemented in TypeScript to control the rate of requests being made to a server, thereby preventing overload and optimizing performance.
-
----
-
-The repository "req-throttle" in TypeScript underwent changes to fix bugs, handle concurrency, and add tests. It implemented a basic design with locks for concurrency.
-</details>
-
-<details>
-<summary><strong>💻lshaoqin</strong></summary>
-Link to repo: https://github.com/lshaoqin/lshaoqin
-<br/>
-This repository contains a comprehensive guide and resources for beginners to learn web development using HTML, CSS, and JavaScript. It covers basic concepts, best practices, and hands-on exercises to enhance coding skills.
-
----
-
-Multiple commits were made to the repository, including auto-updating README.md, fixing markdown formatting, updating the readme template, and removing self-referencing description.
-</details>
-
-<details>
-<summary><strong>🔍questions-search</strong></summary>
-Link to repo: https://github.com/lshaoqin/questions-search
-<br/>
-This repository contains code for performing insertions and searches on a vector database to determine the most relevant Wikipedia article.
-
----
-
-Commits included deletions, merging branches, fixing errors in predictions, updating README, ignoring submission file, and generating predictions in the "questions-search" repository.
-</details>
-
-<details>
-<summary><strong>⭐jeeves</strong></summary>
+<summary><strong>💼jeeves</strong></summary>
 Link to repo: https://github.com/lshaoqin/jeeves
 <br/>
-This repository contains a CLI tool for loading, analyzing, and visualizing data by utilizing easy-to-use text queries.
+This repository contains a command-line interface (CLI) for loading, analyzing, and visualizing data using straightforward text queries.
 
 ---
 
-The Git commits in the "jeeves" repository include removing unused imports, updating dependencies, and creating database methods for crewAI, among other tasks.
+The commits involve removing unused imports, updating dependencies, setting up virtual environment, and creating database methods for the CLI tool.
+</details>
+
+<details>
+<summary><strong>💻ImageBind</strong></summary>
+Link to repo: https://github.com/lshaoqin/ImageBind
+<br/>
+This repository contains ImageBind, a tool for embedding images into a shared space for visual comparison and analysis.
+
+---
+
+Commits include uploading test results, updating GPU test timing, fixing API errors, setting up Milvus, and adding phone test data. Additionally, build and package files were added to the gitignore.
+</details>
+
+<details>
+<summary><strong>📎CLIP</strong></summary>
+Link to repo: https://github.com/lshaoqin/CLIP
+<br/>
+This repository contains CLIP (Contrastive Language-Image Pretraining) model for predicting the most relevant text snippet corresponding to an image.
+
+---
+
+Commits in the CLIP repository include fixing the API for demo readiness, updating dependencies, and integrating the TOM API.
+</details>
+
+<details>
+<summary><strong>🔍lshaoqin</strong></summary>
+Link to repo: https://github.com/lshaoqin/lshaoqin
+<br/>
+This repository contains a comprehensive guide and resources for beginners to learn web development, including HTML, CSS, and JavaScript, with step-by-step tutorials and exercises.
+
+---
+
+Multiple commits have been made to auto-update the README.md file within the repository named lshaoqin.
 </details>
 
 <br>
