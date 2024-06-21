@@ -5,58 +5,58 @@ I'm a Computer Science student at the National University of Singapore. I like t
 ## 🔨 I've been working on:
 
 <details>
-<summary><strong>🧽rag</strong></summary>
-Link to repo: https://github.com/lshaoqin/rag
-<br/>
-This repository contains an implementation and testing of Retrieval Augmented Generation (RAG), a method that combines information retrieval and text generation for natural language processing tasks.
-
----
-
-The rag repository underwent multiple updates and bug fixes. Changes include API enhancements, Milvus integration, GPU support, and embedding improvements to prevent memory issues. Tests were created for Milvus and text embeddings.
-</details>
-
-<details>
-<summary><strong>💼jeeves</strong></summary>
+<summary><strong>🤵jeeves</strong></summary>
 Link to repo: https://github.com/lshaoqin/jeeves
 <br/>
-This repository contains a command-line interface (CLI) for loading, analyzing, and visualizing data using straightforward text queries.
+This repository contains a Command Line Interface (CLI) tool for loading, analyzing, and visualizing data by using straightforward text queries.
 
 ---
 
-The commits involve removing unused imports, updating dependencies, setting up virtual environment, and creating database methods for the CLI tool.
+Commits include removing unused imports, updating dependencies, setting up virtual environment, creating database methods, and adding initial project draft for crewAI.
 </details>
 
 <details>
 <summary><strong>💻ImageBind</strong></summary>
 Link to repo: https://github.com/lshaoqin/ImageBind
 <br/>
-This repository contains ImageBind, a tool for embedding images into a shared space for visual comparison and analysis.
+This repository contains a project titled "ImageBind" which focuses on creating an embedding space that unifies different image embeddings.
 
 ---
 
-Commits include uploading test results, updating GPU test timing, fixing API errors, setting up Milvus, and adding phone test data. Additionally, build and package files were added to the gitignore.
+Commits include updating test timings, fixing API errors, setting up Milvus, and adding phone test data while ignoring build files in the ImageBind repository.
+</details>
+
+<details>
+<summary><strong>🚀rag</strong></summary>
+Link to repo: https://github.com/lshaoqin/rag
+<br/>
+This repository contains an implementation and testing of Retrieval Augmented Generation, focusing on enhancing natural language generation models with retrieval-based approaches.
+
+---
+
+Commits include removing obsolete functions, updating API method calls, completing Vectordb API, and draft API upsert in the "rag" repository.
 </details>
 
 <details>
 <summary><strong>📎CLIP</strong></summary>
 Link to repo: https://github.com/lshaoqin/CLIP
 <br/>
-This repository contains CLIP (Contrastive Language-Image Pretraining) model for predicting the most relevant text snippet corresponding to an image.
+This repository contains CLIP (Contrastive Language-Image Pretraining) model for predicting the most relevant text snippet based on an image input.
 
 ---
 
-Commits in the CLIP repository include fixing the API for demo readiness, updating dependencies, and integrating the TOM API.
+Commits include fixing the API for demonstration readiness, updating dependencies, and adding integration for TOM API in the CLIP repository.
 </details>
 
 <details>
-<summary><strong>🔍lshaoqin</strong></summary>
+<summary><strong>💻lshaoqin</strong></summary>
 Link to repo: https://github.com/lshaoqin/lshaoqin
 <br/>
-This repository contains a comprehensive guide and resources for beginners to learn web development, including HTML, CSS, and JavaScript, with step-by-step tutorials and exercises.
+This repository contains a detailed guide on how to use various Python libraries for data analysis and visualization. It includes code examples and explanations to help users understand and implement these libraries effectively.
 
 ---
 
-Multiple commits have been made to auto-update the README.md file within the repository named lshaoqin.
+The README.md file in the repository was automatically updated twice.
 </details>
 
 <br>
