@@ -5,58 +5,25 @@ I'm a Computer Science student at the National University of Singapore. I like t
 ## 🔨 I've been working on:
 
 <details>
-<summary><strong>🤵jeeves</strong></summary>
-Link to repo: https://github.com/lshaoqin/jeeves
-<br/>
-This repository contains a Command Line Interface (CLI) tool for loading, analyzing, and visualizing data by using straightforward text queries.
-
----
-
-Commits include removing unused imports, updating dependencies, setting up virtual environment, creating database methods, and adding initial project draft for crewAI.
-</details>
-
-<details>
-<summary><strong>💻ImageBind</strong></summary>
-Link to repo: https://github.com/lshaoqin/ImageBind
-<br/>
-This repository contains a project titled "ImageBind" which focuses on creating an embedding space that unifies different image embeddings.
-
----
-
-Commits include updating test timings, fixing API errors, setting up Milvus, and adding phone test data while ignoring build files in the ImageBind repository.
-</details>
-
-<details>
-<summary><strong>🚀rag</strong></summary>
-Link to repo: https://github.com/lshaoqin/rag
-<br/>
-This repository contains an implementation and testing of Retrieval Augmented Generation, focusing on enhancing natural language generation models with retrieval-based approaches.
-
----
-
-Commits include removing obsolete functions, updating API method calls, completing Vectordb API, and draft API upsert in the "rag" repository.
-</details>
-
-<details>
 <summary><strong>📎CLIP</strong></summary>
 Link to repo: https://github.com/lshaoqin/CLIP
 <br/>
-This repository contains CLIP (Contrastive Language-Image Pretraining) model for predicting the most relevant text snippet based on an image input.
+This repository contains the implementation of CLIP (Contrastive Language-Image Pretraining) model to predict the most relevant text snippet based on an input image.
 
 ---
 
-Commits include fixing the API for demonstration readiness, updating dependencies, and adding integration for TOM API in the CLIP repository.
+Commits include README.md update, api fix for demo readiness, and dependencies update in CLIP repository.
 </details>
 
 <details>
-<summary><strong>💻lshaoqin</strong></summary>
+<summary><strong>⭐lshaoqin</strong></summary>
 Link to repo: https://github.com/lshaoqin/lshaoqin
 <br/>
-This repository contains a detailed guide on how to use various Python libraries for data analysis and visualization. It includes code examples and explanations to help users understand and implement these libraries effectively.
+This repository contains a detailed guide and code samples for building a web application using React.js. It covers various topics such as components, state management, and routing, making it a comprehensive resource for learning React development.
 
 ---
 
-The README.md file in the repository was automatically updated twice.
+The README.md file was automatically updated twice in the lshaoqin repository.
 </details>
 
 <br>
